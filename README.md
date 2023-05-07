@@ -4,7 +4,7 @@ Yet another imaginary coffee shop gets a website.
 
 Built as a practice project while learning CSS. Just a pretty landing page with no additional functionality.
 
-## [Live preview](https://coffee-station.alvs.dev/)
+## [Live preview](https://coffee-station-alvs.netlify.com/)
 
 ## Preview
 
